@@ -1,5 +1,5 @@
 {
-    "name": "austinheap/laravel-database-influxdb",
+    "name": "wappla/laravel-database-influxdb",
     "description": "A package for accessing InfluxDB from Laravel 5.5+, based on configuration settings.",
     "keywords": [
         "influx",
