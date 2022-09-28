@@ -20,9 +20,9 @@
         }
     ],
     "require": {
-        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0",
-        "illuminate/log": "5.8.*|^6.0|^7.0|^8.0",
-        "illuminate/support": "5.8.*|^6.0|^7.0|^8.0",
+        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/log": "5.8.*|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "5.8.*|^6.0|^7.0|^8.0|^9.0",
         "influxdb/influxdb-php": "^1.15"
     },
     "require-dev": {
